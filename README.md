@@ -352,3 +352,5 @@ $ python3 unittest -m tests/test_console.py
 * **Andrew Lindburg** <[atlindburg](https://github.com/atlindburg)>
 * **Kevin Yook** <[yook00627](https://github.com/yook00627)>
 * **Miranda Evans** <miranda.r.evans@gmail.com>
+* **Matthias Sunday Oduh** <sundayoduhmatthias@gmail.com>
+* **Oyindamola Ekundayo** <damola.ekundayo@gmail.com>
